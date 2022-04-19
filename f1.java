@@ -112,7 +112,7 @@ public class f1 {
         Double nicholasLatifi = scanner.nextDouble();
         System.out.print("Quantos pontos Sebastian Vettel somou na corrida da Australia?");
         Double sebastianVettel = scanner.nextDouble();
-        int primeiroLugar = 20;
+        int primeiroLugar = 25;
         int segundoLugar = 19;
         int terceirolugar = 18;
         int quartoLugar = 17;
